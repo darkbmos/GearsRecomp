@@ -17,6 +17,7 @@ disco a un APK.
 - Controles táctiles y mandos físicos por Bluetooth o USB (Xbox, PlayStation y la mayoría de mandos
   Android), a la vez.
 - Probado solo unos minutos de campaña y solo en una GPU Mali.
+- No posee gestor de perfiles en al launcher y por los momentos no guardará partida
 
 ## Instalar en Android
 
