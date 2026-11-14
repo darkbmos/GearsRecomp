@@ -11,12 +11,15 @@ disco a un APK.
 ## Estado
 
 - Arranca y se juega a **30 fps** (el límite del propio juego) en un POCO X6 Pro (Mali-G615).
+- La compatibilidad con SD 8 Gen 3 (Adreno 750) (MEIZU 21) y los drivers turnip funciona bien con ligeras caídas de FPS.
 - Desde la 1.1.0 usa un ~17 % menos de CPU que la 1.0.1 y traduce en segundo plano los shaders que faltan
   en la caché, en vez de parar el juego para hacerlo.
 - ~95 % del tiempo de CPU es código nativo; lo emulado es el procesador de comandos de la GPU y el audio XMA.
 - Controles táctiles y mandos físicos por Bluetooth o USB (Xbox, PlayStation y la mayoría de mandos
   Android), a la vez.
 - Probado solo unos minutos de campaña y solo en una GPU Mali.
+- Campaña completada hasta la mitad en una GPU Adreno.
+
 
 ## Instalar en Android
 
